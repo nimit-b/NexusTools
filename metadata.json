@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Tools",
+  "description": "A single-page, multi-functional utility application featuring 16 powerful client-side tools. It includes converters, generators, checkers, and calculators, designed for offline use with a modern, dark-themed, and responsive interface.",
+  "requestFramePermissions": []
+}
